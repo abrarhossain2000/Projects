@@ -1,0 +1,103 @@
+employeeid,firstname,middlename,lastname,title,birthdate,maritalstatus,gender,hiredate,salary,vacationhours,sickleavehours,active,managerid
+2,Kevin,F,Brown,Marketing Assistant,1977-06-03,S,M,1997-02-26,"$23,799.93",42,41,Yes,6
+3,Roberto,,Tamburello,Engineering Manager,1964-12-13,M,M,1997-12-12,"$44,999.97",2,21,Yes,12
+5,Thierry,B,D'Nofro,Tool Designer,1949-08-29,M,M,1998-01-11,"$28,730.00",9,24,Yes,6
+6,David,M,Bradley,Marketing Manager,1965-04-19,S,M,1998-01-20,"$42,500.02",40,40,Yes,109
+9,Gail,A,Erickson,Design Engineer,1942-10-29,M,F,1998-02-06,"$66,299.98",5,22,Yes,3
+11,Jossef,H,Goldberg,Design Engineer,1949-04-11,M,M,1998-02-24,"$37,569.99",6,23,Yes,3
+12,Terri,Lee,Duffy,Vice President of Engineering,1961-09-01,S,F,1998-03-03,"$85,799.95",1,20,Yes,109
+28,Ashvini,R,Sharma,Network Administrator,1967-04-28,S,M,1999-01-05,"$42,500.02",70,55,Yes,150
+30,Paula,M,Barreto de Mattos,Human Resources Manager,1966-03-14,M,F,1999-01-07,"$67,999.98",54,47,Yes,140
+34,          Susan    ,W,Eaton,Stocker,1968-03-20,S,F,1999-01-08,"$15,724.80",99,68,Yes,85
+35,Vamsi,N,Kuppa,Shipping and Receiving Clerk,1967-04-19,M,M,1999-01-08,"$14,108.64",95,67,Yes,85
+41,Peng,J,Wu,Quality Assurance Supervisor,1966-04-19,M,M,1999-01-10,"$32,129.98",81,60,Yes,200
+42,Jean,E,O'Brien,Information Services Manager,1966-01-13,S,F,1999-01-12,"$126,000.07",65,52,Yes,109
+44,A. Scott,,Wright,Master Scheduler,1958-10-19,S,M,1999-01-13,"$41,650.02",44,42,Yes,148
+46,Sariya,E,Harnpadoungsataya,Marketing Specialist,1977-06-21,S,M,1999-01-13,"$25,500.04",45,42,Yes,6
+47,Willis,T,Johnson,Recruiter,1968-08-18,S,M,1999-01-14,"$32,299.95",99,44,Yes,30
+49,Christian,E,Kleinerman,Maintenance Supervisor,1966-02-18,M,M,1999-01-15,"$30,345.01",92,66,Yes,218
+54,Tengiz,N,Kharatishvili,Control Specialist,1980-05-29,S,M,1999-01-17,"$24,989.96",76,58,Yes,6
+59,Deborah,E,Smyth,Accounts Receivable Specialist,1966-04-07,M,F,1999-01-19,"$23,712.00",60,50,Yes,139
+66,Janaina,Barreiro Gambaro,Bueno,Application Specialist,1975-03-03,M,F,1999-01-24,"$47,879.92",71,55,Yes,42
+70,Mindy,C,Martin,Benefits Specialist,1974-12-22,M,F,1999-01-26,"$41,399.90",51,45,Yes,30
+71,Wendy,Beth,Kahn,Finance Manager,1974-11-12,S,F,1999-01-26,"$107,999.93",55,47,Yes,140
+72,Kim,T,Ralls,Stocker,1974-06-01,S,F,1999-01-27,"$15,724.80",98,69,Yes,85
+77,Sean,P,Alexander,Quality Assurance Technician,1966-04-07,S,M,1999-01-29,"$15,707.96",82,61,No ,41
+79,Diane,L,Margheim,Research and Development Engineer,1976-07-06,S,F,1999-01-30,"$102,000.04",62,51,Yes,158
+82,Vidur,X,Luthra,Recruiter,1974-09-02,S,M,1999-02-02,"$32,299.95",50,45,Yes,30
+85,Pilar,G,Ackerman,Shipping and Receiving Supervisor,1962-10-11,S,M,1999-02-03,"$28,560.04",93,66,Yes,6
+94,Candy,L,Spoon,Accounts Receivable Specialist,1966-03-26,S,F,1999-02-07,"$47,424.00",61,50,No ,139
+96,William,S,Vong,Scheduling Assistant,1971-12-08,M,M,1999-02-08,"$15,240.16",45,42,Yes,44
+102,Dan,K,Bacon,Application Specialist,1971-07-28,M,M,1999-02-12,"$40,697.93",72,56,Yes,42
+106,Mary,E,Gibson,Marketing Specialist,1952-10-14,M,F,1999-02-13,"$45,000.08",46,43,No ,6
+111,Mark,L,Harrington,Quality Assurance Technician,1976-05-31,S,M,1999-02-16,"$15,707.96",83,61,No ,41
+114,Gigi,N,Matthew,Research and Development Engineer,1969-02-21,M,F,1999-02-17,"$102,000.04",63,51,Yes,158
+117,François,P,Ajenstat,Database Administrator,1965-06-17,S,M,1999-02-18,"$57,119.94",67,53,Yes,42
+119,Jill,A,Williams,Marketing Specialist,1969-07-19,M,F,1999-02-19,"$30,000.05",47,43,Yes,6
+121,Matthias,T,Berndt,Shipping and Receiving Clerk,1963-12-13,M,M,1999-02-21,"$105,000.06",94,67,Yes,85
+128,Dan,B,Dugle,Database Administrator,1966-02-06,M,M,1999-02-23,"$29,988.00",66,53,Yes,42
+130,Bryan,A,Walton,Accounts Receivable Specialist,1974-10-22,S,M,1999-02-25,"$40,310.40",62,51,Yes,139
+132,Sairaj,L,Uddin,Scheduling Assistant,1978-01-22,M,M,1999-02-27,"$28,288.00",46,43,Yes,44
+139,David,J,Liu,Accounts Manager,1973-08-08,M,M,1999-03-03,"$73,695.05",57,48,Yes,140
+140,Laura,F,Norman,Chief Financial Officer,1966-02-06,M,F,1999-03-04,"$52,809.12",0,20,Yes,109
+145,Andreas,T,Berglund,Quality Assurance Technician,1979-04-29,M,M,1999-03-06,"$15,707.96",84,62,Yes,41
+148,James,R,Hamilton,Vice President of Production,1973-02-07,S,M,1999-03-07,"$186,382.56",64,52,Yes,109
+149,Ramesh,V,Meyyappan,Application Specialist,1978-04-14,S,M,1999-03-07,"$50,872.41",73,56,Yes,42
+150,Stephanie,A,Conroy,Network Manager,1974-04-26,S,F,1999-03-08,"$69,300.07",68,54,No ,42
+154,Hao,O,Chen,Human Resources Administrative Assistant,1967-05-19,S,M,1999-03-10,"$44,369.97",52,46,Yes,30
+158,Dylan,A,Miller,Research and Development Manager,1977-03-27,M,M,1999-03-12,"$107,100.06",61,50,Yes,3
+164,Mikael,Q,Sandberg,Buyer,1974-09-18,S,M,1999-03-14,"$38,759.94",59,49,Yes,274
+166,Dragan,K,Tomic,Accounts Payable Specialist,1967-03-18,M,M,1999-03-15,"$40,310.40",63,51,Yes,139
+170,Alan,J,Brewer,Scheduling Assistant,1974-04-30,M,M,1999-03-17,"$28,288.00",47,43,Yes,44
+176,Karen,A,Berg,Application Specialist,1968-06-19,S,F,1999-03-20,"$35,909.94",74,57,Yes,42
+178,Barbara,C,Moreland,Accountant,1966-02-04,M,F,1999-03-22,"$65,999.98",58,49,Yes,139
+188,Peter,I,Connelly,Network Administrator,1970-06-29,S,M,1999-03-27,"$48,194.96",69,54,Yes,150
+191,Grant,N,Culbertson,Human Resources Administrative Assistant,1966-05-18,S,M,1999-03-29,"$29,579.98",53,46,Yes,30
+195,Jimmy,T,Bischoff,Stocker,1975-06-05,M,M,1999-03-30,"$13,366.08",96,68,Yes,85
+198,Arvind,B,Rao,Buyer,1964-09-21,M,M,1999-04-01,"$29,069.95",60,50,Yes,274
+200,Hazem,E,Dudenhoefer,Quality Assurance Manager,1967-11-27,S,M,1999-04-01,"$42,840.07",80,60,Yes,148
+201,Janet,L,Smith,Accounts Payable Specialist,1969-04-09,M,F,1999-04-02,"$47,424.00",64,52,Yes,139
+203,Terry,J,Eminhizer,Marketing Specialist,1976-03-07,M,M,1999-04-03,"$25,500.04",44,42,Yes,6
+206,Brian,P,LaMee,Scheduling Assistant,1974-09-12,M,M,1999-04-04,"$28,288.00",48,44,Yes,44
+212,Chris,K,Norred,Control Specialist,1977-06-26,M,M,1999-04-07,"$24,989.96",75,57,Yes,6
+216,Mike,K,Seamans,Accountant,1969-08-01,S,M,1999-04-09,"$56,099.98",59,49,Yes,139
+217,Michael,,Raheem,Research and Development Manager,1975-01-01,M,M,1999-06-04,"$48,818.93",16,64,Yes,158
+218,Gary,E.,Altman,Facilities Manager,1961-03-21,M,M,2000-01-03,"$35,700.06",86,63,Yes,148
+223,Linda,P,Meisner,Buyer,1960-12-31,M,F,2000-01-18,"$45,599.93",56,48,Yes,274
+225,Magnus,E,Hedlund,Facilities Administrative Assistant,1961-09-27,M,M,2000-01-22,"$14,479.92",87,63,Yes,218
+231,Fukiko,J,Ogisu,Buyer,1960-12-25,M,M,2000-02-05,"$54,263.91",57,48,Yes,274
+233,Gladys,L,Hee,Buyer,1956-12-30,M,F,2000-02-12,"$56,999.91",52,46,Yes,274
+238,Frank,S,Pellow,Buyer,1942-06-13,M,M,2000-02-24,"$31,007.95",58,49,Yes,274
+241,Eric,S,Kurjan,Buyer,1962-10-19,S,M,2000-02-28,"$19,379.97",54,47,Yes,274
+242,Pat,H,Coleman,Janitor,1961-01-03,S,M,2000-02-28,"$13,737.36",89,64,Yes,49
+244,Erin,M,Hagens,Buyer,1961-02-04,S,F,2000-03-03,"$56,999.91",53,46,Yes,274
+251,Lori,K,Penor,Janitor,1960-08-31,M,F,2000-03-19,"$16,161.60",90,65,Yes,49
+253,Sootha,T,Charncherngkha,Quality Assurance Technician,1957-01-05,M,M,2000-03-26,"$15,707.96",85,62,Yes,41
+259,Stuart,J,Macrae,Janitor,1962-01-17,M,M,2000-04-05,"$13,737.36",88,64,Yes,49
+260,Jo,L,Berry,Janitor,1944-05-25,M,F,2000-04-07,"$16,161.60",91,65,Yes,49
+261,Ben,T,Miller,Buyer,1963-07-05,M,M,2000-04-09,"$38,759.94",55,47,Yes,274
+264,Annette,L,Hill,Purchasing Assistant,1968-03-01,M,F,2001-01-06,"$26,520.00",50,45,Yes,274
+265,Janice,M,Galvin,Tool Designer,1979-06-29,M,F,2001-01-23,"$33,800.00",8,24,Yes,6
+266,Reinout,N,Hillmann,Purchasing Assistant,1968-02-18,M,M,2001-01-25,"$27,050.40",51,45,Yes,274
+267,Michael,I,Sullivan,Senior Design Engineer,1969-07-17,S,M,2001-01-30,"$41,437.51",3,21,Yes,3
+269,Wanida,M,Benshoof,Marketing Assistant,1965-04-17,M,F,2001-02-07,"$27,999.92",41,40,Yes,6
+270,Sharon,B,Salavaria,Design Engineer,1951-06-03,M,F,2001-02-18,"$44,199.99",4,22,Yes,3
+271,John,L,Wood,Marketing Specialist,1968-04-06,S,M,2001-03-10,"$25,500.04",48,44,Yes,6
+272,Mary,A,Dempsey,Marketing Assistant,1968-03-01,S,F,2001-03-17,"$27,999.92",43,41,Yes,6
+273,Brian,S,Welcker,Vice President of Sales,1967-07-08,S,M,2001-03-18,"$107,100.02",93,25,Yes,109
+274,Sheela,H,Word,Purchasing Manager,1968-03-13,S,F,2001-03-28,"$20,508.80",49,44,Yes,71
+275,Michael,G,Smith,Sales Representative,1959-01-26,S,M,2001-07-01,"$26,519.97",38,39,Yes,6
+276,Linda,C,Mitchell,Sales Representative,1970-03-30,M,F,2001-07-01,"$31,199.97",27,33,Yes,6
+277,Jillian,,Carson,Sales Representative,1952-09-29,S,F,2001-07-01,"$31,199.97",24,32,Yes,6
+278,Garrett,R,Vargas,Sales Representative,1965-03-07,M,M,2001-07-01,"$26,519.97",33,36,Yes,6
+279,Tsvi,Michael,Reiter,Sales Representative,1964-02-19,M,M,2001-07-01,"$26,519.97",29,34,Yes,6
+280,Pamela,O,Ansman-Wolfe,Sales Representative,1965-01-06,S,F,2001-07-01,"$31,199.97",22,31,Yes,6
+281,Shu,K,Ito,Sales Representative,1958-04-10,M,M,2001-07-01,"$26,519.97",26,33,Yes,6
+282,José,Edvaldo,Saraiva,Sales Representative,1954-01-11,M,M,2001-07-01,"$26,519.97",31,35,Yes,6
+283,David,R,Campbell,Sales Representative,1964-03-14,S,M,2001-07-01,"$26,519.97",23,31,Yes,6
+284,Amy,E,Alberts,European Sales Manager,1947-10-22,M,F,2002-05-18,"$113,749.98",21,30,Yes,273
+285,Jae,B,Pak,Sales Representative,1958-04-18,M,F,2002-07-01,"$31,199.97",37,38,Yes,284
+287,Tete,A,Mensa-Annan,Sales Representative,1968-02-06,M,M,2002-11-01,"$26,519.97",39,39,Yes,6
+288,Syed,E,Abbas,Pacific Sales Manager,1965-02-11,M,M,2003-04-15,"$55,277.67",20,30,Yes,273
+289,Rachel,B,Valdez,Sales Representative,1965-08-09,S,F,2003-07-01,"$31,199.97",35,37,Yes,284
+290,Lynn,N,Tsoflias,Sales Representative,1961-04-18,S,F,2003-07-01,"$31,199.97",36,38,Yes,288

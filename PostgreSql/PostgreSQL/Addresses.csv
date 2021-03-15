@@ -1,0 +1,103 @@
+AddressesID,EmployeeID,AddressLine1,AddressLine2,City,State,Zip1,Zip2,ModifiedDate
+1,5,1970 Napa Ct.,,Bothell,WA,98011,9288,1998-01-04
+2,35,9833 Mt. Dias Blv.,,Bothell,WA,98011,9288,1999-01-01
+3,288,7484 Roundtree Drive,,Bothell,WA,98011,9288,2003-04-08
+4,164,9539 Glenside Dr,,Bothell,WA,98011,9288,1999-03-07
+5,72,1226 Shoe St.,,Bothell,WA,98011,9288,1999-01-20
+6,41,250 Race Court,,Bothell,WA,98011,9288,1999-01-03
+7,280,636 Vine Hill Way,,Portland,OR,97205,,2001-06-24
+8,277,80 Sunview Terrace,,Duluth,MN,55802,,2001-06-24
+9,281,5725 Glaze Drive,,San Francisco,CA,94109,,2001-06-24
+10,276,2487 Riverside Drive,,Nevada,UT,84407,,2001-06-24
+11,279,8291 Crossbow Way,,Memphis,TN,38103,,2001-06-24
+12,282,9100 Sheppard Avenue North,,Ottawa,ON,K4B 1,,2001-06-24
+13,278,10203 Acorn Avenue,,Calgary,AB,T2P 2,,2001-06-24
+14,289,Pascalstr 951,,London,UK,14111,,2003-06-24
+15,290,34 Waterloo Road,,Melbourne,MA,3000 ,,2003-06-24
+16,285,Downshire Way,,Cambridge,MA,BA5 3,,2002-06-24
+17,275,8154 Via Mexico,,Detroit,MI,48226,,2001-06-24
+18,287,3997 Via De Luna,,Cambridge,MA,02139,,2002-10-25
+19,158,7048 Laurel,,Kenmore,WA,98028,,1999-03-05
+20,170,25 95th Ave NE,,Kenmore,WA,98028,,1999-03-10
+21,148,9652 Los Angeles,,Monroe,WA,98272,,1999-02-28
+22,203,8668 Via Neruda,,Bellevue,WA,98004,,1999-03-27
+23,266,620 Woodside Ct.,,Bellevue,WA,98004,,2001-01-18
+24,272,6307 Greenbelt Way,,Bellevue,WA,98004,,2001-03-10
+25,231,8751 Norse Drive,,Bellevue,WA,98004,,2000-01-29
+26,30,4311 Clay Rd,,Bellevue,WA,98004,,1998-12-31
+27,244,2947 Vine Lane,,Bellevue,WA,98004,,2000-02-25
+28,223,6118 Grasswood Circle,,Bellevue,WA,98004,,2000-01-11
+29,114,7808 Brown St.,,Bellevue,WA,98004,,1999-02-10
+30,96,6774 Bonanza,,Bellevue,WA,98004,,1999-02-01
+31,9,9435 Breck Court,,Bellevue,WA,98004,,1998-01-30
+32,269,6951 Harmony Way,,Sammamish,WA,98074,,2001-01-31
+33,201,6871 Thornwood Dr.,,Sammamish,WA,98074,,1999-03-26
+34,71,4525 Benedict Ct.,,Sammamish,WA,98074,,1999-01-19
+35,271,9906 Oak Grove Road,,Redmond,WA,98052,4211,2001-03-03
+36,42,2383 Pepper Drive,,Redmond,WA,98052,4211,1999-01-05
+37,264,6369 Ellis Street,,Redmond,WA,98052,4211,2000-12-30
+38,6,3768 Door Way,,Redmond,WA,98052,4211,1998-01-13
+39,261,101 Candy Rd.,,Redmond,WA,98052,4211,2000-04-02
+40,265,3397 Rancho View Drive,,Redmond,WA,98052,4211,2001-01-16
+41,3,2137 Birchwood Dr,,Redmond,WA,98052,4211,1997-12-05
+42,106,3928 San Francisco,,Everett,WA,98201,,1999-02-06
+43,79,475 Santa Maria,,Everett,WA,98201,,1999-01-23
+44,46,1185 Dallas Drive,,Everett,WA,98201,,1999-01-06
+45,2,7883 Missing Canyon Court,,Everett,WA,98201,,1997-02-19
+46,47,5452 Corte Gilberto,,Everett,WA,98201,,1999-01-07
+47,119,3238 Laguna Circle,,Everett,WA,98201,,1999-02-12
+48,59,7640 First Ave.,,Everett,WA,98201,,1999-01-12
+49,206,2294 West 39th St.,,Everett,WA,98201,,1999-03-28
+50,44,9297 Kenston Dr.,,Newport Hills,WA,98006,,1999-01-06
+51,70,9687 Shakespeare Drive,,Newport Hills,WA,98006,,1999-01-19
+52,130,1397 Paradise Ct.,,Newport Hills,WA,98006,,1999-02-18
+53,82,3030 Blackburn Ct.,,Newport Hills,WA,98006,,1999-01-26
+54,139,9605 Pheasant Circle,,Gold Bar,WA,98251,,1999-02-24
+55,242,2425 Notre Dame Ave,,Gold Bar,WA,98251,,2000-02-21
+56,49,8036 Summit View Dr.,,Gold Bar,WA,98251,,1999-01-08
+57,191,213 Stonewood Drive,,Gold Bar,WA,98251,,1999-03-22
+58,166,3884 Beauty Street,# 14,Gold Bar,WA,98251,,1999-03-08
+59,260,1748 Bird Drive,,Index,WA,98256,,2000-03-31
+60,94,310 Winter Lane,,Index,WA,98256,,1999-01-31
+61,251,3514 Sunshine,,Index,WA,98256,,2000-03-12
+62,216,1245 Clay Road,,Index,WA,98256,,1999-04-02
+63,154,7691 Benedict Ct.,# 141,Issaquah,WA,98027,,1999-03-03
+64,117,1144 Paradise Ct.,,Issaquah,WA,98027,,1999-02-11
+65,150,7435 Ricardo,,Issaquah,WA,98027,,1999-03-01
+66,188,9530 Vine Lane,,Issaquah,WA,98027,,1999-03-20
+67,28,6580 Poor Ridge Court,,Issaquah,WA,98027,,1998-12-29
+68,66,5979 El Pueblo,,Issaquah,WA,98027,,1999-01-17
+69,102,1921 Ranch Road,,Issaquah,WA,98027,,1999-02-05
+70,149,3848 East 39th Street,,Issaquah,WA,98027,,1999-02-28
+71,176,5256 Chickpea Ct.,,Issaquah,WA,98027,,1999-03-13
+72,212,989 Crown Ct,,Issaquah,WA,98027,,1999-03-31
+73,54,3333 Madhatter Circle,,Issaquah,WA,98027,,1999-01-10
+74,273,7772 Golden Meadow,,Issaquah,WA,98027,,2001-03-11
+75,111,8585 Los Gatos Ct.,,Issaquah,WA,98027,,1999-02-09
+76,77,7985 Center Street,,Renton,WA,98055,,1999-01-22
+77,238,5980 Icicle Circle,Unit H,Renton,WA,98055,,2000-02-17
+78,241,1378 String Dr,,Renton,WA,98055,,2000-02-21
+79,198,9495 Limewood Place,,Renton,WA,98055,,1999-03-25
+80,218,2598 Breck Court,,Renton,WA,98055,,1999-12-27
+81,11,5670 Bel Air Dr.,,Renton,WA,98055,,1998-02-17
+82,270,7165 Brock Lane,,Renton,WA,98055,,2001-02-11
+83,34,2736 Scramble Rd,,Renton,WA,98055,,1999-01-01
+84,259,2266 Greenwood Circle,,Renton,WA,98055,,2000-03-29
+85,225,9533 Working Drive,,Renton,WA,98055,,2000-01-15
+86,145,1803 Olive Hill,,Renton,WA,98055,,1999-02-27
+87,12,7559 Worth Ct.,,Renton,WA,98055,,1998-02-24
+88,267,6510 Hacienda Drive,,Renton,WA,98055,,2001-01-23
+89,140,6937 E. 42nd Street,,Renton,WA,98055,,1999-02-25
+90,195,2176 Brown Street,,Renton,WA,98055,,1999-03-23
+91,121,4312 Cambridge Drive,,Renton,WA,98055,,1999-02-14
+92,284,5009 Orange Street,,Renton,WA,98055,,2002-05-11
+93,217,1234 Seaside Way,,San Francisco,CA,94109,,1999-05-28
+94,85,5407 Cougar Way,,Seattle,WA,98104,,1999-01-27
+95,283,2284 Azalea Avenue,,Bellevue,WA,98004,,2001-06-24
+96,233,108 Lakeside Court,,Bellevue,WA,98004,,2000-02-05
+97,274,535 Greendell Pl,,Sammamish,WA,98074,,2001-03-21
+98,253,4155 Working Drive,,Kenmore,WA,98028,,2000-03-19
+99,200,5050 Mt. Wilson Way,,Kenmore,WA,98028,,1999-03-25
+100,132,8040 Hill Ct,,Redmond,WA,98052,4211,1999-02-20
+101,178,137 Mazatlan,,Seattle,WA,98104,,1999-03-15
+102,128,5863 Sierra,,Bellevue,WA,98004,,1999-02-16

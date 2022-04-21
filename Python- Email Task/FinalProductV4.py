@@ -37,7 +37,7 @@ def connection (database):
             AND Table2.[Rank] <> 'Q'
             AND Table2.[Rank] <> 'R'
             AND Table2.[Rank] <> 'S'
-        then 'Inactive supervisor' end as InactiveSupvisor
+        then 'Inactive supervisor' end as InactiveSupervisor
 
         ,CASE
         when Table1.[ID#] = Table2.[ID#]
@@ -112,12 +112,12 @@ def connection (database):
             Table1.[Title] IS NULL
         )
     )
-    AND (Table1.[ID#] NOT IN ('1827345','0510501','1512594','1292901'))
+    AND (Table1.[ID#] NOT IN ('1234567','0203014','7410922','3748932'))
     AND (SubDivision IS NOT NULL)
     ORDER BY Table3.[SubDivision]""", conn)
     df = pd.DataFrame(query)
     #New Columns are created and appended to the dataframe
-    cols = ['NoSupervisor', 'InactiveSupvisor', 'OwnBoss', 'MissingSite', 'MissingActualFloor', 'MissingSiteType', 'MissingTitle']
+    cols = ['NoSupervisor', 'InactiveSupervisor', 'OwnBoss', 'MissingSite', 'MissingActualFloor', 'MissingSiteType', 'MissingTitle']
     df['MissingData'] = df[cols].apply(lambda x: ', '.join(x.dropna()), axis=1)
     return(df)
 
@@ -190,7 +190,7 @@ def body(input): #Drafts up an email inserting specific instructions per subDivi
     mailItem.Subject = "Missing Employee Data- Supervisor Action Required"
     mailItem.BodyFormat = 1
     mailItem.HTMLBody = """<html><font face="Calibri" size="10px"> <div> Good Afternoon """ + value + """, <br> <br> I am writing to remind you that the Supervisor Information for the following employees is 
-    missing or needs to be updated in the Web Software app: <br> <br>""" + html + """<br> <br> Please enter the correct information by COB Sunday. If you have any questions or experience 
+    missing or needs to be updated in the Web Software App: <br> <br>""" + html + """<br> <br> Please enter the correct information by COB Sunday. If you have any questions or experience 
     any technical difficulties, please let me know. Thank you and stay safe! </div> </font></html>"""
     mailItem.To = df2
     mailItem.Display()

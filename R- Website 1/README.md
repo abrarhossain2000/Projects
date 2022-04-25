@@ -22,7 +22,7 @@ Function 4: qrySpecificfmsApp- This is a SELECT query that selects the table but
 **When the user wants to add a new entry to the table, they first must click on “Add Row”:**
 ![image](https://user-images.githubusercontent.com/66147832/165128329-ffcc501f-bed0-4cea-bbd5-d575d305980a.png)
 
-**This is the result:**
+**This is the result:** <br />
 ![image](https://user-images.githubusercontent.com/66147832/165128392-eb733da5-51db-4f9a-a9f4-2400fb743f86.png)
 
 **This is the result in the database:**
@@ -31,7 +31,7 @@ Function 4: qrySpecificfmsApp- This is a SELECT query that selects the table but
 **When the user wants to edit an existing row in the table, they first must click on “Edit Row”:**
 ![image](https://user-images.githubusercontent.com/66147832/165128539-b1e85d1a-920a-43ba-a6f2-c9b563470a7a.png)
 
-**This is the result:**
+**This is the result:** <br />
 ![image](https://user-images.githubusercontent.com/66147832/165128548-8f63bb5d-61a1-406d-8dcc-0adf9d7cf615.png)
 
 **This is the result in the database:**

@@ -6,7 +6,8 @@ Email Supervisors for every Sub Division about their employees’ missing inform
 2.	FinalProductV4.py – This is a query that finds the employees in the Company WebApp with missing or outdated supervisor information. The csv contains the emails of the Heads of every Sub Division and use this csv to email them about the employees that are returned from the query.
 
 **CSV Content:**
-There are 4 columns in the SupervisorEmailContactsV3.csv- SubDivision, Name, Emails, Instructions. There are 17 departments, 29 Supervisors (Last + First Name) & their corresponding email, and instructions on how to email them, or how to address them.
+There are 4 columns in the SupervisorEmailContactsV3.csv- SubDivision, Name, Emails, Instructions. <br />
+There are 17 departments, 29 Supervisors (Last + First Name) & their corresponding email, and instructions on how to email them, or how to address them.
 
 **Definitions:**
 **WhichBuilding**- which building the employee works in,

@@ -25,7 +25,7 @@ Function 4: qrySpecificfmsApp- This is a SELECT query that selects the table but
 **This is the result:** <br />
 ![image](https://user-images.githubusercontent.com/66147832/165128392-eb733da5-51db-4f9a-a9f4-2400fb743f86.png)
 
-**This is the result in the database:**
+**This is the result in the database:** <br />
 ![image](https://user-images.githubusercontent.com/66147832/165128449-fdd6de12-5f5f-49e1-8168-1c563e26549c.png)
 
 **When the user wants to edit an existing row in the table, they first must click on “Edit Row”:**
@@ -34,16 +34,16 @@ Function 4: qrySpecificfmsApp- This is a SELECT query that selects the table but
 **This is the result:** <br />
 ![image](https://user-images.githubusercontent.com/66147832/165128548-8f63bb5d-61a1-406d-8dcc-0adf9d7cf615.png)
 
-**This is the result in the database:**
+**This is the result in the database:** <br />
 ![image](https://user-images.githubusercontent.com/66147832/165128591-a05f41c9-e9cf-4f4e-8857-7c74919ecd45.png)
 
 **When the user wants to delete an existing row in the table, they first must click on “Delete Row”:**
 ![image](https://user-images.githubusercontent.com/66147832/165129184-0c711aa0-b4bc-40a1-98a2-a2bc3a03981c.png)
 
 **This is the result:**
-![image](https://user-images.githubusercontent.com/66147832/165129207-032972ce-c87d-40de-8c28-825e28664ee6.png)
+![image](https://user-images.githubusercontent.com/66147832/165129746-47f9786b-2f4e-4282-8a67-d619e57a553a.png)
 
-**This is the result in the database:**
+**This is the result in the database:**  <br />
 ![image](https://user-images.githubusercontent.com/66147832/165129230-b28078bb-3d96-4d5d-856f-9684ed033ac9.png)
 
 **When the user wants to view specific columns in the table, they first must click on the Control Panel and select the columns they want to see via the DropDown menu:**

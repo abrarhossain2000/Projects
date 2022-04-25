@@ -9,7 +9,7 @@ Email Supervisors for every Sub Division about their employees’ missing inform
 There are 4 columns in the SupervisorEmailContactsV3.csv- SubDivision, Name, Emails, Instructions. <br />
 There are 17 departments, 29 Supervisors (Last + First Name) & their corresponding email, and instructions on how to email them, or how to address them.
 
-**Definitions:** 
+**Definitions:**  <br />
 **WhichBuilding**- which building the employee works in, <br />
 **SpecificFloor**- which floor the employee works in, <br />
 **BuildingType**- the type of building that the employee works in, <br />
